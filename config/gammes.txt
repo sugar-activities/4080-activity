@@ -1,0 +1,70 @@
+[Echelles]
+
+; Syntaxe :
+; - la cle    : la configuration des degres
+; - la valeur : {nom de la gamme} | {nom d'un mode} {, nom d'un mode}*
+
+101010010100  :  Pentatonic. pure                          |  Penta. major, Penta. Egyptian, Kio, Tche, Penta. mineur
+101010010010  :  Pentatonic. dominant
+110100011000  :  Pentatonic. balinese
+101100010100  :  Pentatonic. japanese
+110001010010  :  Pentatonic. kokinjoshi
+101010011000  :  Pentatonic. harmonic
+110001011000  :  Pentatonic. nippon                        |  Penta. In descendant, Penta. Chinese, Penta. Iwato, Penta. Hira-Joshi, Penta. Kumoi-Joshi
+110100010010  :  Pentatonic. pelog
+100011010001  :  Pentatonic. mauritanian
+101100101000  :  Pentatonic. locrian (1)
+110100101000  :  Pentatonic. locrian (2)
+101010101010  :  Whole tone
+100110011001  :  Augmented
+101010100110  :  Prometheus
+100011011010  :  Hindu
+101010110100  :  Hexa. lydian
+101101010100  :  Hexa. melodic
+110101011000  :  Hexa. phrygian
+100110010110  :  Hexa. binary tritonic (blues)
+101100110100  :  Hexa. suspended diminished tritonic
+101100101100  :  Hexa. diminished tritonic Yang
+110100110100  :  Hexa. diminished tritonic Yin
+101101010010  :  Bahar
+101110010100  :  Blues major (1)
+100101110010  :  Blues minor (1)
+100101110100  :  Blues major (2)
+100100101110  :  Blues minor (2)
+100101110011  :  Blues
+101011010101  :  Major                                     |  Ionian, Dorian, Phrygian, Lydian, Mixolydian, Aeolian, Locrian
+101101011010  :  Pure minor
+101101011001  :  Harmonic minor                            |  Harmonic minor, Locrian 6#, Ionian augmented, Romanian minor, Super Phrygian, Lydian 2#, Diminished-altered
+101101010101  :  Melodic minor                             |  Melodic minor, Javanese, Lydian augmented, Bartok, Hindu, Locrian Natural 2nd, Altered
+110010101011  :  Enigmatic
+110011101010  :  Oriental (1)
+110011101100  :  Oriental (2)
+100111001101  :  Oriental (3)
+110011011001  :  Gypsy (1)
+101011011001  :  Harmonic major
+110011010110  :  Gypsy (2)
+101011101010  :  Arabian
+110110101010  :  Super locrian
+101100111010  :  Hungarian gypsy
+100110110110  :  Hungarian major
+101100111001  :  Hungarian minor (algerian)
+110101010101  :  Neopolitan major
+110101011001  :  Neopolitan minor
+110101011010  :  Pelog
+110011110010  :  Persian (1)
+110011101001  :  Persian (2)
+110011011010  :  Spanish (1)
+110111101010  :  Spanish (2)
+110111011010  :  Flamenco
+101011011101  :  Bebop major
+101111010110  :  Bebop minor
+101011010111  :  Bebop dominant
+110110110110  :  Blues diminished (1)
+100110110010  :  Blues diminished (2)
+101101101101  :  Diminished
+110110110101  :  Half diminished
+101100110001  :  Semi-tonal chromatic minor
+100110110001  :  Semi-tonal chromatic major
+
+
+

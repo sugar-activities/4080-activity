@@ -1,0 +1,48 @@
+[Ut]
+
+04  :  BEFHOQRTX  ,  BEFHQRTW
+05  :  BEFHQRTX   ,  BEFHNQRT
+06  :  BEFHPQRTX  ,  BEFHQRTU  ,  BEFHPQRT
+07  :  BEFHQRT
+08  :  BEFHQRTV
+09  :  BEFHQR
+10  :  BEFHQ
+11  :  BEFHQS     ,  BEFHR
+12  :  BEFH
+13  :  BEFHI
+14  :  BEF
+15  :  BEFG  ,  BEFM  ,  BEQ  ,  BER
+16  :  BE
+17  :  B
+18  :  E     ,  BLM
+19  :  
+20  :  D
+21  :  C     ,  K
+22  :  AC    ,  CK
+23  :  ABEFHOQRT  ,  ABEFHOQRTX  ,  ABEFHQRTW
+24  :  ABEFHQRTX  ,  ABEFHNQRT
+25  :  ABEFHPQRT  ,  ABEFHPQRTX  ,  ABEFHQRTU
+26  :  ABEFHQRT
+27  :  ABEFHQRTV
+28  :  ABEFHQR
+29  :  ABEFHQ
+30  :  ABEFHQS  ,  ABEFHR
+31  :  ABEFH
+32  :  AEFHI    ,  ABEFQR
+33  :  ABEF
+34  :  ABEFM    ,  ABEFG   ,  ABEQ  ,  ABER
+35  :  ABE
+36  :  AB
+37  :  ABFHQR    ,  ABLM       ,  AE
+38  :  ABFHQV    ,  ABDFHQR    ,  ABK       ,  ABD      ,  A
+39  :  ABFHQSV   ,  ABFHRV     ,  ABFHTV    ,  ABDFHR   ,  AD
+40  :  ABFHV     ,  ABDFH      ,  ABDK      ,  AC
+41  :  ABFHIV    ,  ABEFHIQRT  ,  ABFHMV    ,  ACK
+42  :  AEFQRTV   ,  ABEFQR     ,  ABEFM     ,  ABFV     ,  ACJK
+43  :  ABEQRV    ,  ABFQRV     ,  ABFHIQRV  ,  ABEGR
+44  :  ABFHQU    ,  ABELM      ,  ABQV      ,  ABQRTU
+45  :  ABFHU     ,  ABFHP      ,  ABFHO     ,  ABFHN    ,  ABH
+46  :  ABFIQRTX  ,  ABDFP      ,  ABFP      ,  AF       ,  AEFHIQRTX  ,  AFHLM  ,  ABCFHP
+47  :  ABFQRV    ,  ABFHQRU    ,  ABEFQRP   ,  ABEFQRV
+48  :  ABEQV     ,  ABCQV      ,  ABEQU     ,  ABDQRV   ,  ABQSV
+

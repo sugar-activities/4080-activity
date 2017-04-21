@@ -1,0 +1,51 @@
+; Les noms des types de guitare peuvent etre traduits si une correspondance
+; existe dans le fichier "messages.po".
+
+; Dans le logiciel, les noms sont affiches par ordre alphabetique. 
+; Dans la liste des accordages, les nombres doivent etre strictements croissants
+
+
+[Guitares]
+
+5,10,15,20,24,29   :  Guitar (standard)
+10,15,20,25,29,34  :  Guitalele             
+5,10,15,20,25,30   :  Guitar (open 'fourth')
+5,10,15,19,24,27   :  Guitar (open 'Luth')
+5,12,17,21,24,29   :  Guitar (open E) 
+5,12,17,20,24,29   :  Guitar (open Em)
+3,10,15,20,24,29   :  Guitar (dropped D)
+3,10,15,19,22,27   :  Guitar (open D)
+3,10,15,18,22,27   :  Guitar (open Dm)
+3,10,15,20,22,27   :  Guitar (open Dsus4)
+3,10,15,19,25,27   :  Guitar (open D7)
+3,10,15,19,22,26   :  Guitar (open D7M)
+3,10,15,17,22,27   :  Guitar (open D9)
+1,8,13,20,25,29    :  Guitar (open C)
+1,8,13,20,22,29    :  Guitar (open C6)
+3,8,15,20,24,27    :  Guitar (open G)
+3,8,15,20,23,27    :  Guitar (open Gm)
+
+
+[Basses]
+
+5,10,15,20         :  Bass (4 strings)
+12,17,22,27,32     :  Bass (5 strings)
+12,17,22,27,32,37  :  Bass (6 strings)
+
+
+[Banjos]
+
+1,8,15,22   :  Banjo (tenor)
+8,15,22,29  :  Banjo (irish)
+
+
+[Mandolines]
+
+8,15,22,29  :  Mandoline             
+
+
+[Ukuleles]
+
+8,13,17,22  :  Ukulele                 
+
+

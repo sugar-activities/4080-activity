@@ -1,0 +1,767 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <francois.senequier@netcourrier.com>, 2009.
+#
+#: commun.py:214 commun.py:215 commun.py:232 modele.py:326 modele.py:328
+#: modele.py:390 modele.py:429 modele.py:515 modele.py:563 modele.py:579
+#: modele.py:619 modele.py:717 modele.py:919 modele.py:1206
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.47\n"
+"Report-msgstr-Bugs-To: \n"
+"POT-Creation-Date: 2009-02-08 20:33+0100\n"
+"PO-Revision-Date: 2009-10-11 20:33+0100\n"
+"Last-Translator: SENEQUIER FRANCOIS <francois.senequier@netcourrier.com>\n"
+"Language-Team: anglais - français\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ----------------------------------------------------------------------------
+#: Le nom de l'application
+#: ----------------------------------------------------------------------------
+
+msgid "Musical theory - Musical instruments"
+msgstr "Théorie musicale - Instruments de musique"
+
+#: ----------------------------------------------------------------------------
+#: Zone du haut et noms des onglets
+#: ----------------------------------------------------------------------------
+
+msgid "Theory"
+msgstr "Théorie"
+
+msgid "Scales"
+msgstr "Gammes"
+
+msgid "Scale"
+msgstr "Gamme"
+
+msgid "Chords"
+msgstr "Accords"
+
+msgid "Chord"
+msgstr "Accord"
+
+msgid "Intervals"
+msgstr "Intervalles"
+
+msgid "Degrees"
+msgstr "Degrés"
+
+msgid "Key"
+msgstr "Tonique"
+
+msgid "Root"
+msgstr "Fondamentale"
+
+msgid "Mode"
+msgstr "Mode"
+
+msgid "Inversion"
+msgstr "Renversement"
+
+msgid "Parallel"
+msgstr "Parallèle"
+
+msgid "Tones"
+msgstr "Notes"
+
+msgid "Tone"
+msgstr "Note"
+
+msgid "Transposition"
+msgstr "Transposition"
+
+msgid "Tonality"
+msgstr "Tonalité"
+
+msgid "Tension"
+msgstr "Tension"
+
+msgid "Tones list"
+msgstr "Liste des notes"
+
+msgid "Tones set"
+msgstr "Ensemble de notes"
+
+msgid "First octave"
+msgstr "Première octave"
+
+msgid "Number of octaves"
+msgstr "Nombre d'octaves"
+
+msgid "Oct."
+msgstr "Oct."
+
+msgid "the names"
+msgstr "les noms"
+
+msgid "in half tones"
+msgstr "en demi-tons"
+
+msgid "Instruments"
+msgstr "Instruments"
+
+msgid "Instrument"
+msgstr "Instrument"
+
+msgid "Playing"
+msgstr "Jouer"
+
+msgid "Piano"
+msgstr "Piano"
+
+#: ----------------------------------------------------------------------------
+#: La comparaison des echelles
+#: ----------------------------------------------------------------------------
+
+msgid "Comparison mode"
+msgstr "Mode de comparaison"
+
+msgid "Compared to"
+msgstr "Par rapport à"
+
+msgid "scales"
+msgstr "gammes"
+
+msgid "chords"
+msgstr "accords"
+
+msgid "contained"
+msgstr "contenu"
+
+msgid "equal"
+msgstr "égal"
+
+msgid "contains"
+msgstr "contient"
+
+msgid "To compare"
+msgstr "Comparer"
+
+msgid "Comparisons"
+msgstr "Comparaisons"
+
+msgid "Quadrant"
+msgstr "Quadrant"
+
+#: ----------------------------------------------------------------------------
+#: Ear training
+#: ----------------------------------------------------------------------------
+
+msgid "Ear training"
+msgstr "Ear training"
+
+msgid "Listen"
+msgstr "Ecouter"
+
+msgid "Notes recognition"
+msgstr "Reconnaissance des notes"
+
+msgid "Intervals recognition"
+msgstr "Reconnaissance des intervalles"
+
+msgid "Try number %d : good, this is a %s indeed !"
+msgstr "Essai n°%d : bravo, c'est bien un %s !"
+
+msgid "Try number %d : error, this is not a %s !"
+msgstr "Essai n°%d : erreur, ce n'est pas un %s !"
+
+msgid "Listen to this note and try to identify it"
+msgstr "Ecoutez la note et essayez de la retrouver"
+
+msgid "Listen to this interval and try to identify it"
+msgstr "Ecoutez l'intervalle et essayez de le retrouver"
+
+#: ----------------------------------------------------------------------------
+#: Les notes
+#: ----------------------------------------------------------------------------
+
+msgid "C"
+msgstr "Do"
+
+msgid "C#"
+msgstr "Do#"
+
+msgid "Db"
+msgstr "Réb"
+
+msgid "D"
+msgstr "Ré"
+
+msgid "D#"
+msgstr "Ré#"
+
+msgid "Eb"
+msgstr "Mib"
+
+msgid "E"
+msgstr "Mi"
+
+msgid "F"
+msgstr "Fa"
+
+msgid "F#"
+msgstr "Fa#"
+
+msgid "Gb"
+msgstr "Solb"
+
+msgid "G"
+msgstr "Sol"
+
+msgid "G#"
+msgstr "Sol#"
+
+msgid "Ab"
+msgstr "Lab"
+
+msgid "A"
+msgstr "La"
+
+msgid "A#"
+msgstr "La#"
+
+msgid "Bb"
+msgstr "Sib"
+
+msgid "B"
+msgstr "Si"
+
+#: ----------------------------------------------------------------------------
+#: Les intervalles
+#: ----------------------------------------------------------------------------
+
+msgid "Fnd"
+msgstr "Fnd"
+
+msgid "2-"
+msgstr "2-"
+
+#
+
+msgid "Fnd+"
+msgstr "Fnd+"
+
+msgid "2m"
+msgstr "2m"
+
+#
+
+msgid "2M"
+msgstr "2M"
+
+msgid "3-"
+msgstr "3-"
+
+#
+
+msgid "2+"
+msgstr "2+"
+
+msgid "3m"
+msgstr "3m"
+
+#
+
+msgid "3M"
+msgstr "3M"
+
+msgid "4-"
+msgstr "4-"
+
+#
+
+msgid "3+"
+msgstr "3+"
+
+msgid "4J"
+msgstr "4J"
+
+#
+
+msgid "4+"
+msgstr "4+"
+
+msgid "5-"
+msgstr "5-"
+
+#
+
+msgid "5J"
+msgstr "5J"
+
+msgid "6-"
+msgstr "6-"
+
+#
+
+msgid "5+"
+msgstr "5+"
+
+msgid "6m"
+msgstr "6m"
+
+#
+
+msgid "6M"
+msgstr "6M"
+
+msgid "7-"
+msgstr "7-"
+
+#
+
+msgid "6+"
+msgstr "6+"
+
+msgid "7m"
+msgstr "7m"
+
+#
+
+msgid "7M"
+msgstr "7M"
+
+msgid "Oct-"
+msgstr "Oct-"
+
+#
+
+msgid "Unison"
+msgstr "Unisson"
+
+msgid "Octave"
+msgstr "Octave"
+
+#: ----------------------------------------------------------------------------
+#: Les gammes et modes
+#: ----------------------------------------------------------------------------
+
+msgid "Ionian"
+msgstr "Ionien"
+
+msgid "Dorian"
+msgstr "Dorien"
+
+msgid "Phrygian"
+msgstr "Phrygien"
+
+msgid "Lydian"
+msgstr "Lydien"
+
+msgid "Mixolydian"
+msgstr "Mixolydien"
+
+msgid "Aeolian"
+msgstr "Aeolien"
+
+msgid "Locrian"
+msgstr "Locrien"
+
+msgid "Penta. major" 
+msgstr "Penta. majeur" 
+
+msgid "Penta. Egyptian"
+msgstr "Penta. Egyptien"
+
+msgid "Penta. Kio"
+msgstr "Penta. Kio"
+
+msgid "Penta. Tche"
+msgstr "Penta. Tche"
+
+msgid "Penta. minor"
+msgstr "Penta. mineur"
+
+msgid "Pentatonic. nippon"
+msgstr "Pentatonique nippone"
+
+msgid "Penta. In descendant"
+msgstr ""
+
+msgid "Penta. Chinese"
+msgstr "Penta. Chinoise"
+
+msgid "Penta. Iwato"
+msgstr ""
+
+msgid "Penta. Hira-Joshi"
+msgstr ""
+
+msgid "Penta. Kumoi-Joshi"
+msgstr ""
+msgid "Pentatonic. pure"
+msgstr "Pentatonique naturelle"
+
+msgid "Pentatonic. dominant"
+msgstr "Pentatonique dominante"
+
+msgid "Pentatonic. balinese"
+msgstr "Pentatonique balinaise"
+
+msgid "Pentatonic. japanese"
+msgstr "Pentatonique japonaise"
+
+msgid "Pentatonic. kokinjoshi"
+msgstr "Pentatonique kokinjoshi"
+
+msgid "Pentatonic. harmonic"
+msgstr "Pentatonique harmonique"
+
+msgid "Pentatonic. pelog"
+msgstr "Pentatonique pelog"
+
+msgid "Pentatonic. mauritanian"
+msgstr "Pentatonique mauritanienne"
+
+msgid "Pentatonic. locrian (1)"
+msgstr "Pentatonique locrien (1)"
+
+msgid "Pentatonic. locrian (2)"
+msgstr "Pentatonique locrien (2)"
+
+msgid "Whole tone"
+msgstr "Ton par ton"
+
+msgid "Augmented"
+msgstr "Augmentée"
+
+msgid "Prometheus"
+msgstr "Prométhée"
+
+msgid "Hexa. lydian"
+msgstr "Hexa-lydien"
+
+msgid "Hexa. melodic"
+msgstr "Hexa-mélodique"
+
+msgid "Hexa. phrygian"
+msgstr "Hexa-phrygien"
+
+msgid "Hexa. binary tritonic (blues)"
+msgstr "Hexa-tritonique binaire (blues)"
+
+msgid "Hexa. suspended diminished tritonic"
+msgstr "Hexa-tritonique diminué suspendu"
+
+msgid "Hexa. diminished tritonic Yang"
+msgstr "Hexa-tritonique diminué Yang"
+
+msgid "Hexa. diminished tritonic Yin"
+msgstr "Hexa-tritonique diminué Yin"
+
+msgid "Bahar"
+msgstr "Bahar"
+
+msgid "Blues major (1)"
+msgstr "Majeure blues (1)"
+
+msgid "Blues minor (1)"
+msgstr "Mineure blues (1)"
+
+msgid "Blues major (2)"
+msgstr "Majeure blues (2)"
+
+msgid "Blues minor (2)"
+msgstr "Mineure blues (2)"
+
+msgid "Blues"
+msgstr "Blues"
+
+msgid "Major"
+msgstr "Majeure"
+
+msgid "Pure minor"
+msgstr "Mineure naturelle"
+
+msgid "Harmonic minor"
+msgstr "Mineure harmonique"
+
+msgid "Locrian 6#"
+msgstr "Locrien 6#"
+
+msgid "Ionian augmented"
+msgstr "Ionien augmenté"
+
+msgid "Romanian minor"
+msgstr "Roumain mineur"
+
+msgid "Super Phrygian"
+msgstr "Super Phrygien"
+
+msgid "Lydian 2#"
+msgstr "Lydien 2#"
+
+msgid "Diminished-altered"
+msgstr "Diminué-altéré"
+
+msgid "Melodic minor"
+msgstr "Mineure mélodique"
+
+msgid "Javanese"
+msgstr "Javanais"
+
+msgid "Lydian augmented"
+msgstr "Lydien augmenté"
+
+msgid "Bartok"
+msgstr "Béla Bartok"
+
+msgid "Hindu"
+msgstr "Hindù"
+
+msgid "Locrian Natural 2nd"
+msgstr "Locrien 2bécarre"
+
+msgid "Altered"
+msgstr "Altéré"
+
+msgid "Enigmatic"
+msgstr "Enigmatique"
+
+msgid "Oriental (1)"
+msgstr "Orientale (1)"
+
+msgid "Oriental (2)"
+msgstr "Orientale (2)"
+
+msgid "Oriental (3)"
+msgstr "Orientale (3)"
+
+msgid "Gypsy (1)"
+msgstr "Gypsy (bizantine)"
+
+msgid "Harmonic major"
+msgstr "Majeure harmonique"
+
+msgid "Gypsy (2)"
+msgstr "Gitane"
+
+msgid "Arabian"
+msgstr "Arabe"
+
+msgid "Super locrian"
+msgstr "Super locrien"
+
+msgid "Hungarian gypsy"
+msgstr "Hongroise gitane"
+
+msgid "Hungarian major"
+msgstr "Hongroise majeure"
+
+msgid "Hungarian minor (algerian)"
+msgstr "Hongroise mineure (algérienne)"
+
+msgid "Neopolitan major"
+msgstr "Napolitaine majeure"
+
+msgid "Neopolitan minor"
+msgstr "Napolitaine mineure"
+
+msgid "Pelog"
+msgstr "Pelog"
+
+msgid "Persian (1)"
+msgstr "Persienne (1)"
+
+msgid "Persian (2)"
+msgstr "Persienne (2)"
+
+msgid "Spanish (1)"
+msgstr "Espagnole (1)"
+
+msgid "Spanish (2)"
+msgstr "Espagnole (2)"
+
+msgid "Flamenco"
+msgstr "Flamenco"
+
+msgid "Bebop major"
+msgstr "Bebop majeure"
+
+msgid "Bebop minor"
+msgstr "Bebop mineure"
+
+msgid "Bebop dominant"
+msgstr "Bebop dominante"
+
+msgid "Blues diminished (1)"
+msgstr "Blues diminuée (1)"
+
+msgid "Blues diminished (2)"
+msgstr "Blues diminuée (2)"
+
+msgid "Diminished"
+msgstr "Diminuée"
+
+msgid "Half diminished"
+msgstr "Demi-diminuée"
+
+msgid "Semi-tonal chromatic minor"
+msgstr "Bitonal mineur chromatique"
+
+msgid "Semi-tonal chromatic major"
+msgstr "Bitonal majeur chromatique"
+
+
+#: ----------------------------------------------------------------------------
+#: Les harmonicas
+#: ----------------------------------------------------------------------------
+
+msgid "Harmonica"
+msgstr "Harmonica"
+
+#: --
+
+msgid "Chromatic harmonica"
+msgstr "Harmonica chromatique"
+
+msgid "Diatonic harmonica"
+msgstr "Harmonica diatonique"
+
+#: --
+
+msgid "Blo"
+msgstr "Sou"
+
+msgid "Asp"
+msgstr "Asp"
+
+#: ----------------------------------------------------------------------------
+#: Les flutes
+#: ----------------------------------------------------------------------------
+
+msgid "Recorder"
+msgstr "Flûte"
+
+#: --
+
+msgid "Recorder (baroque fingering)"
+msgstr "Flûte (doigté baroque)"
+
+msgid "Recorder (modern fingering)"
+msgstr "Flûte (doigté moderne)"
+
+#: ----------------------------------------------------------------------------
+#: Les guitares
+#: ----------------------------------------------------------------------------
+
+msgid "Guitar"
+msgstr "Guitare"
+
+msgid "Fingering"
+msgstr "Doigté"
+
+msgid "Tuning"
+msgstr "Accordage"
+
+msgid "Cases"
+msgstr "Cases"
+
+#: --
+
+msgid "4 tones, 6 cases"
+msgstr "4 notes, 6 cases"
+
+msgid "3 tones, 5 cases"
+msgstr "3 notes, 5 cases"
+
+msgid "left, left"
+msgstr "gauche, gauche"
+
+msgid "left, right"
+msgstr "gauche, droite"
+
+#: --
+
+msgid "Guitar (standard)"
+msgstr "Guitare 'standard'"
+
+msgid "Guitar (open 'fourth')"
+msgstr "Guitare 'open de quarte'"
+
+msgid "Guitar (open 'Luth')"
+msgstr "Guitare 'open du Luth'"
+
+msgid "Guitar (open E)"
+msgstr "Guitare 'open de Mi M'"
+
+msgid "Guitar (open Em)"
+msgstr "Guitare 'open de Mi m'"
+
+msgid "Guitar (dropped D)"
+msgstr "Guitare 'dropped D'"
+
+msgid "Guitar (open D)"
+msgstr "Guitare 'open de Ré M'"
+
+msgid "Guitar (open Dm)"
+msgstr "Guitare 'open de Ré m'"
+
+msgid "Guitar (open Dsus4)"
+msgstr "Guitare 'open de Ré sus4'"
+
+msgid "Guitar (open D7)"
+msgstr "Guitare 'open de Ré 7'"
+
+msgid "Guitar (open D7M)"
+msgstr "Guitare 'open de Ré 7M'"
+
+msgid "Guitar (open D9)"
+msgstr "Guitare 'open de Ré 9'"
+
+msgid "Guitar (open C)"
+msgstr "Guitare 'open de Do M'"
+
+msgid "Guitar (open C6)"
+msgstr "Guitare 'open de Do 6'"
+
+msgid "Guitar (open G)"
+msgstr "Guitare 'open de Sol M'"
+
+msgid "Guitar (open Gm)"
+msgstr "Guitare 'open de Sol m'"
+
+msgid "Bass (4 strings)"
+msgstr "Basse '4 cordes'"
+
+msgid "Bass (5 strings)"
+msgstr "Basse '5 cordes'"
+
+msgid "Bass (6 strings)"
+msgstr "Basse '6 cordes'"
+
+msgid "Banjo (tenor)"
+msgstr "Banjo 'ténor'"
+
+msgid "Banjo (irish)"
+msgstr "Banjo 'irlandais'"
+
+msgid "Mandoline"
+msgstr "Mandoline"
+
+msgid "Ukulele"
+msgstr "Ukulélé"
+
+msgid "Guitalele"
+msgstr "Guitalélé"
+
+
+#: ----------------------------------------------------------------------------
+#: Les clarinettes
+#: ----------------------------------------------------------------------------
+
+msgid "Clarinet"
+msgstr "Clarinette"
+
+#: --
+
+msgid "B flat"
+msgstr "Si bémol"
+
+msgid "E flat"
+msgstr "Mi bémol"

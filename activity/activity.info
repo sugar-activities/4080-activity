@@ -1,0 +1,8 @@
+[Activity]
+name = Theorie
+service_name = Theorie
+class = theorie.Theorie
+icon = theorie.activity 
+activity_version = 147
+host_version = 147
+show_launcher = yes
